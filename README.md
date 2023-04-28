@@ -10,21 +10,21 @@ This application must have user management.
 
 ### Front
 
-![demo](assests/front-screen.png)
+![demo](docs/front-screen.png)
 
 -----
 #### schema of component :
 
-![schema of components](assests/schema-react.png)
+![schema of components](docs/schema-react.png)
 
 -----
 
 ### API
-![swagger](assests/swagger-api.png)
+![swagger](docs/swagger-api.png)
 
 ### Architecture du project
 
-![](assests/project-architecture.png)
+![](docs/project-architecture.png)
 
 ### Data Model
 
@@ -44,11 +44,11 @@ This application must have user management.
 
 ### Redis
 
-![redis-bench](assests/redis-bench.png)
+![redis-bench](docs/redis-bench.png)
 
 ## Deploying
 
-![docker-architecture](assests/docker-architecture.png)
+![docker-architecture](docs/docker-architecture.png)
 
 ```bash
 docker-compose up -d
